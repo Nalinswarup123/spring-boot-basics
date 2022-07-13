@@ -1,2 +1,3 @@
 # spring-boot-basics
-Basic Web Application using Spring Boot 
+Shows how to create basic web application using Springboot, Java, Maven and Apache Derby. 
+Creating basic CRUD apis, controller, services and repository.
