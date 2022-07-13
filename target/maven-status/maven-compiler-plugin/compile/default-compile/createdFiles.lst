@@ -1,0 +1,5 @@
+com\spring\springdata\topic\Topic.class
+com\spring\springdata\topic\TopicService.class
+com\spring\springdata\topic\TopicController.class
+com\spring\springdata\SpringdataApplication.class
+com\spring\springdata\topic\TopicRepository.class
